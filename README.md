@@ -1,4 +1,4 @@
-### Hi there 👋
+# Heyo 🦊
 
 - 🔭 I’m currently working on updating my mixer project into React
 - 🌱 I’m currently learning React, Redux and always Javascript
