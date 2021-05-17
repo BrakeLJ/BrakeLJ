@@ -1,14 +1,7 @@
 ### Hi there 👋
 
-<!--
-**BrakeLJ/BrakeLJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
-
-- 🔭 I’m currently working on a comic collector app that lets you bookmark comics for later reading! 🐱‍🏍
-- 🌱 I’m currently learning Javascript foundations and React hooks
+- 🔭 I’m currently working on updating my mixer project into React
+- 🌱 I’m currently learning React, Redux and always Javascript
 - 🥏 Hobbies: Miniature painting, leather-working, comics, cycling, board games, cooking 
 - 📫 How to reach me: lukejbrake@gmail.com
 - 🦊 Pronouns: He/Him
