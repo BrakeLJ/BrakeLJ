@@ -1,14 +1,8 @@
-# Hey there, I'm [Lucas!](https://www.lucasbrake.com) 🖐️
+# Hey, Lucas here! 🖐️
 
 ## About Me
-I used to be a chef but when the pandemic hit I took the chance to learn to code and make the career change I've wanted to make for years. I am deeply curious and love solving problems for people so it's a natural fit. I love coding in my off time but when I'm not it's likely that I'm: 
+I am a software engineer who transitioned into tech from the restaurant industry in 2020 when the pandemic hit. Since then, I have transitioned from a non-tech role into a full-stack developer tackling complex features and challenges with Ruby on Rails, SQL, React, and TypeScript. I love writing code that impacts and helps people, that's why for the last three years I have worked in the education sector helping take burdens off of teachers so they can do what they love to do, teach. 
 
-- 🥘 Cooking
-- 🚲 Cycling
-- 🐶 Walking the pup
-- ⚔️ Playing D&D
-- 👜 Leatherworking
-- 🌲 Hiking
 
 
 
